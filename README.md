@@ -15,14 +15,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Lenguajes más usados" height="165" />
-  <img src="https://vercel.app" alt="Estadísticas de Genner" height="165" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+<img src="https://vercel.app" />
+<img src="https://vercel.app" />
 </p>
 
 ----
